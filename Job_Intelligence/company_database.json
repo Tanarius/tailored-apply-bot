@@ -1,0 +1,65 @@
+{
+  "Company": {
+    "name": "Company",
+    "website": "https://company.com",
+    "size": "unknown",
+    "industry": "technology",
+    "founding_year": null,
+    "headquarters": "Location not specified",
+    "values": [],
+    "culture_keywords": [],
+    "work_environment": "collaborative",
+    "management_style": "collaborative",
+    "growth_stage": "mature",
+    "recent_news": [],
+    "funding_status": null,
+    "competitors": [],
+    "tech_stack": [
+      "java",
+      "c++"
+    ],
+    "hiring_trends": {},
+    "glassdoor_rating": null,
+    "stability_score": 75.0,
+    "innovation_score": 9.090909090909092,
+    "culture_match_score": 20.0,
+    "hiring_difficulty": "moderate"
+  },
+  "company website": {
+    "name": "company website",
+    "website": "https://companywebsite.com",
+    "size": "unknown",
+    "industry": "technology",
+    "founding_year": null,
+    "headquarters": "Location not specified",
+    "values": [
+      "innovative",
+      "paced trajectory.",
+      "scope"
+    ],
+    "culture_keywords": [
+      "collaborative",
+      "innovative",
+      "fast-paced",
+      "learning"
+    ],
+    "work_environment": "collaborative",
+    "management_style": "collaborative",
+    "growth_stage": "scale-up",
+    "recent_news": [],
+    "funding_status": null,
+    "competitors": [],
+    "tech_stack": [
+      "python",
+      "go",
+      "gcp",
+      "kubernetes"
+    ],
+    "hiring_trends": {},
+    "glassdoor_rating": null,
+    "stability_score": 75.0,
+    "innovation_score": 27.27272727272727,
+    "culture_match_score": 27.5,
+    "hiring_difficulty": "moderate"
+  }
+}
